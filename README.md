@@ -22,6 +22,9 @@ moves that actually shift them**.
   Claude Code. Modes for morning kickoff, end-of-day review, teaching backend
   concepts in compact `★ Insight` blocks, ingesting recorded meetings, and
   graduating insights from "staging" to canonical memory. MIT licensed.
+- [The AI-Native PM Stack](posts/the-ai-native-pm-stack.md) — the 7-layer
+  reference architecture for an AI-native PM workflow, why the install order
+  matters, and what breaks if you skip a layer.
 - *(more coming — generalized write-ups on intake/queue design, ops platforms
   for scheduled external interactions, and modernizing legacy admin systems
   without breaking operations)*
