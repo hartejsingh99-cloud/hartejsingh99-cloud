@@ -25,9 +25,17 @@ moves that actually shift them**.
 - [The AI-Native PM Stack](posts/the-ai-native-pm-stack.md) — the 7-layer
   reference architecture for an AI-native PM workflow, why the install order
   matters, and what breaks if you skip a layer.
-- *(more coming — generalized write-ups on intake/queue design, ops platforms
-  for scheduled external interactions, and modernizing legacy admin systems
-  without breaking operations)*
+- [Call Intelligence Pipelines: Transcription Is the Easy Part](posts/call-intelligence-pipeline.md) —
+  why the real product problem is the analysis taxonomy and routing, not the ASR.
+- [Designing Internal Ticketing That Ops Teams Actually Use](posts/internal-ticketing-design.md) —
+  minimum viable schema, routing that prevents orphans, and the feedback loop
+  that keeps ops teams filing.
+- [Designing an Ops Platform for Scheduled Human Interactions](posts/scheduled-interactions-ops-platform.md) —
+  why it's an operations engine, not a calendar app: scheduling model,
+  exception grammar, outcome taxonomy.
+- [Modernizing a Legacy Admin Panel While Ops Is Using It Live](posts/legacy-admin-modernization.md) —
+  excavation over rewrite: discover real workflows, slice the migration, measure
+  workflow continuity not feature parity.
 
 ## How I think about the work
 - **Enterprise → consumer, and what transfers.** Enterprise taught me to design
